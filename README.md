@@ -1,3 +1,8 @@
+
+[![GitHub](https://img.shields.io/badge/GitHub-josephinealinea-black?logo=github&logoColor=white)](https://github.com/josephinealinea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/josephinealinea/)
+[![Website](https://img.shields.io/badge/Website-josephinealinea.dev-green?logo=google-chrome&logoColor=white)](https://josephinealinea.dev)
+
 ### Hi there 👋
 
 <!--
